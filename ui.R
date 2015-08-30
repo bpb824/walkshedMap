@@ -1,6 +1,5 @@
 require(shiny)
 require(leaflet)
-require(ggvis)
 require(htmltools)
 
 fluidPage(

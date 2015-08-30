@@ -1,7 +1,6 @@
 require(walkscoreAPI)
 require(shiny)
 require(leaflet)
-require(ggvis)
 require(sp)
 
 source("walkshed.R")
